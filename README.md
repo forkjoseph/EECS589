@@ -46,14 +46,14 @@ networks and networking systems.
 | ------| -------------------------------| ---------| 
 | Jan 9 | Introduction                   | [Peter](Slides/FIXME)| 
 |       | **Background** | | 
-| Jan 14| [Internet Anycast: Performance, Problems and Potential]() | | 
-|       | [B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN]() | |
-| Jan 16| [Networking across Boundaries: Enabling Communication through the Water-Air Interface]() | |
-|				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication]() | | 
+| Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | | 
+|       | [B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN](https://dl.acm.org/citation.cfm?id=3230545) | |
+| Jan 16| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
+|				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | | 
 | Jan 21| No class (MLK Day)! | | 
-| Jan 23| [Understanding PCIe Performance for End Host Networking]() | | 
-|				| [Revisiting Network Support for RDMA]() | | 
-| Jan 28| [Inferring Persistent Interdomain Congestion]() | | 
+| Jan 23| [Understanding PCIe Performance for End Host Networking](https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf) | | 
+|				| [Revisiting Network Support for RDMA](https://people.eecs.berkeley.edu/~radhika/irn.pdf) | | 
+| Jan 28| [Inferring Persistent Interdomain Congestion](http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf) | | 
 | Jan 30| | |
 | Feb 04| | |
 | Feb 06| | |
