@@ -2,7 +2,7 @@
 
 ## Administrivia
 * Catalog Number: XXXX
-* Lectures/Discussion: EECS 3166, MW: 4:30 PM – 6:00 PM
+* Lectures/Discussion: FIXME: EECS 3XXX, MW: 4:30 PM – 6:00 PM
 
 ### Team
 
