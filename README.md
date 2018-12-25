@@ -93,7 +93,7 @@ networks and networking systems.
 | Final Report            | -                | 25%
 
 
-## Policies
+## FIXME: Policies
 
 ### Honor Code
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
@@ -164,4 +164,4 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 
 #### Acknowledgement
-This course syllabus is heavily influenced by Mosharf's [EECS 598](https://github.com/mosharaf/eecs598/blob/f17-bigdata/README.md)
+This course syllabus is heavily influenced by Mosharf's [EECS 598](https://github.com/mosharaf/eecs598/blob/f17-bigdata/README.md).
