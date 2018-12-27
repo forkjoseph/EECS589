@@ -11,30 +11,48 @@
 | [Peter Honeyman](http://peter.honeyman.org/) (honey) | Faculty | FIXME: 4820 BBB. **By appointments only.**
 | [HyunJong (Joseph) Lee](http://leelabs.org/) (hyunjong) | GSI | FIXME: BBB Learning Center, F 2:00 PM - 4:00 PM |
 
-## FIXME: Course Description
-This class will introduce you to the key concepts and the state-of-the-art in big data systems and encourage you to think about either building new tools or how to apply an existing one in your own research. 
+## Course Description
+This is a graduate level course on computer networking focusing on advanced
+topics and is a must for anyone interested in doing research in computer
+networks. This class examines the current and emerging research topics in
+computer networking. Topics covered include network protocols, network
+measurement, Internet routing, peer to peer networks, network security,
+wireless, and sensor networks. 
 
-Since datacenters and cloud computing form the backbone of modern big data systems, we will start with high-level overviews of the two and discuss emerging trends in both software and hardware. 
-We will then take a deep dive into the big data systems landscape, focusing on different types of problems. 
-Our journey will cover topics from top conferences such as SOSP, OSDI, NSDI, SIGCOMM, SIGMOD, and EuroSys on SQL queries, log analysis, machine learning activities, graph processing, approximation queries, stream processing, interactive analysis, and deep learning.
+The course consists of both a reading/lecture/discussion component and a project
+component. Emphasis of the course is on topics in wide-area networks, wireless
+networks, and measurement methodologies for Internet and wireless experiments.
+Significant emphasis will be put on security and network management issues
+related to computer networks, as these are becoming increasingly important given
+the growing number attacks and complexity of networks.  We focus both on the
+existing technologies also on why some of them are not sufficient because of
+technology trends or changes in fundamental assumptions. As an example, early
+designers of Internet assumed cooperative behavior of end nodes. The state of
+the art of millions of compromised hosts completely changes this assumption and
+today's landscape on the Internet. We will read about 50 research papers on the
+most recent topics of computer networking.
+
+Students are expected to carry out a research project including analysis,
+design, and implementation components when appropriate on a novel subject.  The
+class projects can be either of the following types: algorithm design applied to
+networked system, implementation of a novel networking system, measurement of
+existing network protocols, and simulation of a proposed network algorithm. We
+emphasize problems that are real and solutions that will make a difference,
+ideally can be deployed. The lecture will be conducted in an interactive
+fashion. I will lead the discussion for the first few meetings of the class, but
+I expect everyone to participate. For the remainder of the class, I expect each
+student (can be in groups) to present a paper. Students will read and review
+papers before class.  You will be graded for the reviews, class discussions, and
+project scope, effort, and results.
 
 ### Prerequisites
-EECS 489 or undergraduate introductory class to networking required. Background
-in system programming, statistics and probability are helpful. Please refer to
-[this class from
-Princeton](http://www.cs.princeton.edu/courses/archive/spring14/cos461/syllabus.html)
-for an overview of the background networking material. See also the Schedule
-tab of [this course from
-GaTech](http://gtnoise.net/classes/cs6250/spring2014/#tab2) for short video
-overviews of many introductory networking concepts.
-
-Undergraduates must receive explicit permission from the instructor to enroll, if space permits.
-
+Students are expected to have good programming skills and must have taken at
+least one undergraduate-level systems-related course (from operating systems,
+databases, distributed systems, and networking).
 
 ### Textbook
-This course has no textbooks. 
-We will read recent papers from top venues to understand trends in computer
-networks and networking systems.
+This course has no textbooks. We will read recent papers from top venues to
+understand trends in networking research.
 
 ## Tentative Schedule and Reading List
 * **Mandatory**: Unless otherwise specified.
@@ -93,19 +111,19 @@ networks and networking systems.
 | Final Report            | -                | 25%
 
 
-## FIXME: Policies
+## Policies
 
 ### Honor Code
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
 
-### Groups
+### FIXME: Groups
 All activities of this course will be performed in **groups of 3 students** for the Assignment track.
 Exceptions may be made for the Research track. 
 
 [Declare your group's membership and paper preferences](https://goo.gl/qzMjq4) by September 11, 2017. 
 After this date, we will form groups from the remaining students.
 
-### Paper Presentation
+### FIXME: Paper Presentation
 The course will be conducted as a seminar. 
 Only one group will present in each class.
 Each group will be assigned to present a paper at least once throughout the semester. 
@@ -122,7 +140,7 @@ In the presentation, you should:
 *The slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.* 
 You should use [this template](Slides/Template.pptx) for making your slides in powerpoint.
 
-### Paper Summaries
+### FIXME: Paper Summaries
 Each group will also be assigned to write one or more paper summaries. 
 The paper summary assigned to a group may not be the same paper they have presented.
 
@@ -142,16 +160,16 @@ Because you do not have to write summaries/reviews for each paper, you cannot av
 Everyone is expected to have read all the papers. 
 Being able to critically judge others' work is crucial for your understanding. 
 
-### Participation
+### FIXME: Participation
 You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
 
-### Assignment Track
+### FIXME: Assignment Track
 If your group chooses the assignment track, you will have to complete two assignments on popular big data frameworks Apache Spark and TensorFlow.
 The third assignment will likely be different for each group with specific goals, and this will resemble a small research exploration project.
 Details of the assignments will be available over time.
 Tentative deadlines for the assignments are October 11, November 13, and December 11.
 
-### Research Track
+### FIXME: Research Track
 If your group chooses the research track, you will have to complete substantive work an instructor-approved problem and have original contribution. 
 Surveys are not permitted as projects; instead, each project must contain a survey of background and related work. 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
