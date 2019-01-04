@@ -1,8 +1,8 @@
 # EECS 589: Advanced Computer Networks
 
 ## Administrivia
-* Catalog Number: XXXX
-* Lectures/Discussion: FIXME: EECS 3XXX, MW: 4:30 PM – 6:00 PM
+* Catalog Number: 33534
+* Lectures/Discussion: 1010 DOW, TuTh 4:00PM - 6:00PM
 
 ### Team
 
