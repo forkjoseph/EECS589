@@ -141,7 +141,7 @@ In the presentation, you should:
 You should use [this template](Slides/Template.pptx) for making your slides in powerpoint.
 
 ### FIXME: Paper Summaries
-Review must be uploaded to **https://hotcrp.eecs589.org**
+Review must be uploaded to **[https://hotcrp.eecs589.org](https://hotcrp.eecs589.org)**
 
 Each group will also be assigned to write one or more paper summaries. 
 The paper summary assigned to a group may not be the same paper they have presented.
