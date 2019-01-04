@@ -8,7 +8,7 @@
 
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Peter Honeyman](http://peter.honeyman.org/) (honey) | Faculty | FIXME: 4820 BBB. **By appointments only.**
+| [Peter Honeyman](http://www.citi.umich.edu/u/honey/) (honey) | Faculty | FIXME: 4820 BBB. **By appointments only.**
 | [HyunJong (Joseph) Lee](http://leelabs.org/) (hyunjong) | GSI | FIXME: BBB Learning Center, F 2:00 PM - 4:00 PM |
 
 ## Course Description
@@ -141,6 +141,8 @@ In the presentation, you should:
 You should use [this template](Slides/Template.pptx) for making your slides in powerpoint.
 
 ### FIXME: Paper Summaries
+Review must be uploaded to **https://hotcrp.eecs589.org**
+
 Each group will also be assigned to write one or more paper summaries. 
 The paper summary assigned to a group may not be the same paper they have presented.
 
@@ -159,6 +161,7 @@ Allocate enough time for your reading, discuss as a group, write the summary car
 Because you do not have to write summaries/reviews for each paper, you cannot avoid reading a paper. 
 Everyone is expected to have read all the papers. 
 Being able to critically judge others' work is crucial for your understanding. 
+
 
 ### FIXME: Participation
 You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
