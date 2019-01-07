@@ -65,7 +65,7 @@ understand trends in networking research.
 | Jan 9 | Introduction                   | [Peter](Slides/FIXME)| 
 |       | **Background** | | 
 | Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | | 
-|       | [B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN](https://dl.acm.org/citation.cfm?id=3230545) | |
+|       | [Restructuring Endpoint Congestion Control](https://dl.acm.org/authorize?N666837) | |
 | Jan 16| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
 |				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | | 
 | Jan 21| No class (MLK Day)! | | 
