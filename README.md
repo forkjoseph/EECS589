@@ -8,7 +8,7 @@
 
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Peter Honeyman](http://www.citi.umich.edu/u/honey/) (honey) | Faculty | FIXME: 4820 BBB. **By appointments only.**
+| [Peter Honeyman](http://www.citi.umich.edu/u/honey/) (honey) | Faculty | 4777 BBB. By appointment or drop-in
 | [HyunJong (Joseph) Lee](http://leelabs.org/) (hyunjong) | GSI | FIXME: BBB Learning Center, F 2:00 PM - 4:00 PM |
 
 ## Course Description
