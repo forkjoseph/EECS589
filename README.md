@@ -8,8 +8,8 @@
 
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Peter Honeyman](http://www.citi.umich.edu/u/honey/) (honey) | Faculty | 4777 BBB. By appointment or drop-in
-| [HyunJong (Joseph) Lee](http://leelabs.org/) (hyunjong) | GSI | FIXME: BBB Learning Center, F 2:00 PM - 4:00 PM |
+| [Peter Honeyman](http://www.citi.umich.edu/u/honey/) (honey) | Faculty | 4777 BBB. By appointment or drop-in |
+| [HyunJong (Joseph) Lee](http://leelabs.org/) (hyunjong) | GSI | BBB Learning Center. By appointment |
 
 ## Course Description
 This is a graduate level course on computer networking focusing on advanced
@@ -65,7 +65,7 @@ understand trends in networking research.
 | Jan 9 | Introduction                   | [Peter](Slides/FIXME)| 
 |       | **Background** | | 
 | Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | | 
-|       | [Restructuring Endpoint Congestion Control](https://dl.acm.org/authorize?N666837) | |
+|       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | |
 | Jan 16| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
 |				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | | 
 | Jan 21| No class (MLK Day)! | | 
@@ -96,6 +96,7 @@ understand trends in networking research.
 | Apr 15| | |
 | Apr 17| | |
 | Apr 22| | |
+
 
 ## FIXME: Grading
 |                         | Assignment Track | Research Track |
