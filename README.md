@@ -14,7 +14,7 @@
 ## Course Description
 This is a graduate level course on computer networking focusing on advanced
 topics and is a must for anyone interested in doing research in computer
-networks. This class examines the current and emerging research topics in
+networks. This class examines current and emerging research topics in
 computer networking. Topics covered include network protocols, network
 measurement, Internet routing, peer to peer networks, network security,
 wireless, and sensor networks. 
@@ -24,8 +24,8 @@ component. Emphasis of the course is on topics in wide-area networks, wireless
 networks, and measurement methodologies for Internet and wireless experiments.
 Significant emphasis will be put on security and network management issues
 related to computer networks, as these are becoming increasingly important given
-the growing number attacks and complexity of networks.  We focus both on the
-existing technologies also on why some of them are not sufficient because of
+the growing number attacks and complexity of networks.  We focus both on 
+existing technologies and on why some of them are not sufficient because of
 technology trends or changes in fundamental assumptions. As an example, early
 designers of Internet assumed cooperative behavior of end nodes. The state of
 the art of millions of compromised hosts completely changes this assumption and
@@ -34,7 +34,7 @@ most recent topics of computer networking.
 
 Students are expected to carry out a research project including analysis,
 design, and implementation components when appropriate on a novel subject.  The
-class projects can be either of the following types: algorithm design applied to
+class projects can be any of the following types: algorithm design applied to
 networked system, implementation of a novel networking system, measurement of
 existing network protocols, and simulation of a proposed network algorithm. We
 emphasize problems that are real and solutions that will make a difference,
@@ -51,7 +51,7 @@ least one undergraduate-level systems-related course (from operating systems,
 databases, distributed systems, and networking).
 
 ### Textbook
-This course has no textbooks. We will read recent papers from SIGCOMM 2018, Mobicom 2018, and NSDI 2019 to
+This course has no textbook. We will read recent papers from SIGCOMM 2018, Mobicom 2018, and NSDI 2019 to
 understand trends in networking research.
 
 ## Tentative Schedule and Reading List
@@ -63,9 +63,9 @@ understand trends in networking research.
 | Date  | Readings                       | Presenter|
 | ------| -------------------------------| ---------| 
 | Jan 9 | Introduction                   | [Honeyman]| 
-|       | **Background** | | 
-| Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | | 
-|       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | |
+|       | **Background**                 | [Honeyman]| 
+| Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | [Honeyman]| 
+|       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | [Honeyman]|
 | Jan 16| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
 |				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | | 
 | Jan 21| No class (MLK Day)! | | 
@@ -116,7 +116,7 @@ After this date, we will form groups from the remaining students.
 ### FIXME: Paper Presentation
 The course will be conducted as a seminar. 
 Only one group will present in each class.
-Each group will be assigned to present a pair of paperis at least twice throughout the semester. 
+Each group will be assigned to present a pair of papers at least twice throughout the semester. 
 Presentations should last **at most 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
 In the presentation, you should:
