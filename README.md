@@ -51,7 +51,7 @@ least one undergraduate-level systems-related course (from operating systems,
 databases, distributed systems, and networking).
 
 ### Textbook
-This course has no textbooks. We will read recent papers from top venues to
+This course has no textbooks. We will read recent papers from SIGCOMM 2018, Mobicom 2018, and NSDI 2019 to
 understand trends in networking research.
 
 ## Tentative Schedule and Reading List
@@ -62,7 +62,7 @@ understand trends in networking research.
 
 | Date  | Readings                       | Presenter|
 | ------| -------------------------------| ---------| 
-| Jan 9 | Introduction                   | [Peter](Slides/FIXME)| 
+| Jan 9 | Introduction                   | [Honeyman]| 
 |       | **Background** | | 
 | Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | | 
 |       | [Restructuring Endpoint Congestion Control](https://dl.acm.org/authorize?N666837) | |
@@ -98,18 +98,7 @@ understand trends in networking research.
 | Apr 22| | |
 
 ## FIXME: Grading
-|                         | Assignment Track | Research Track |
-| ------------------------| ----------------:| --------------:|
-| Paper Summary           | 20%              | 20%
-| Paper Presentation      | 20%              | 20%
-| Participation           | 10%              | 10%
-| Assignment 1            | 15%              | -
-| Assignment 2            | 15%              | -
-| Assignment 3            | 20%              | -
-| Research Proposal       | -                | 10%
-| Mid-Semester Checkpoint | -                | 15%
-| Final Report            | -                | 25%
-
+Students who satisfactorily complete all assigned work will receive a B+ or better.
 
 ## Policies
 
@@ -117,16 +106,16 @@ understand trends in networking research.
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
 
 ### FIXME: Groups
-All activities of this course will be performed in **groups of 3 students** for the Assignment track.
+All activities of this course will be performed in **groups of 3 students**, two Master's students teamed up with one Doctoral student.
 Exceptions may be made for the Research track. 
 
-[Declare your group's membership and paper preferences](https://goo.gl/qzMjq4) by September 11, 2017. 
+[Declare your group's membership and paper preferences](https://goo.gl/qzMjq4) by January 16, 2019.
 After this date, we will form groups from the remaining students.
 
 ### FIXME: Paper Presentation
 The course will be conducted as a seminar. 
 Only one group will present in each class.
-Each group will be assigned to present a paper at least once throughout the semester. 
+Each group will be assigned to present a pair of paperis at least twice throughout the semester. 
 Presentations should last **at most 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
 In the presentation, you should:
@@ -166,23 +155,17 @@ Being able to critically judge others' work is crucial for your understanding.
 ### FIXME: Participation
 You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
 
-### FIXME: Assignment Track
-If your group chooses the assignment track, you will have to complete two assignments on popular big data frameworks Apache Spark and TensorFlow.
-The third assignment will likely be different for each group with specific goals, and this will resemble a small research exploration project.
-Details of the assignments will be available over time.
-Tentative deadlines for the assignments are October 11, November 13, and December 11.
-
-### FIXME: Research Track
-If your group chooses the research track, you will have to complete substantive work an instructor-approved problem and have original contribution. 
+### Project
+You will complete substantive work an instructor-approved problem and have original contribution. 
 Surveys are not permitted as projects; instead, each project must contain a survey of background and related work. 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Turn in a 2-page draft proposal (including references) by September 27. Remember to include the names and Michigan email addresses of the group members. 
-* Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before October 11.
+* Turn in a 2-page draft proposal (including references) by January 30. Remember to include the names and Michigan email addresses of the group members. 
+* Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before February 11.
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of November 13.
-* Each group must present their final results during a presentation or poster session on December 11.
-* **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on December 15.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
+* Each group must present their final results during a presentation or poster session on April 11.
+* **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on April 15.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 
 #### Acknowledgement
-This course syllabus is heavily influenced by Mosharf's [EECS 598](https://github.com/mosharaf/eecs598/blob/f17-bigdata/README.md).
+This course syllabus is heavily influenced by Mosharaf's [EECS 598](https://github.com/mosharaf/eecs598/blob/f17-bigdata/README.md).
