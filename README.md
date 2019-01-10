@@ -38,11 +38,13 @@ class projects can be any of the following types: algorithm design applied to
 networked system, implementation of a novel networking system, measurement of
 existing network protocols, and simulation of a proposed network algorithm. We
 emphasize problems that are real and solutions that will make a difference,
-ideally can be deployed. The lecture will be conducted in an interactive
-fashion. I will lead the discussion for the first few meetings of the class, but
-I expect everyone to participate. For the remainder of the class, I expect each
-student (can be in groups) to present a paper. Students will read and review
-papers before class.  You will be graded for the reviews, class discussions, and
+ideally can be deployed.
+
+The lecture will be conducted in an interactive
+fashion. The instructors will lead the discussion for the first few meetings of the class, but
+everyone must participate. For the remainder of the class, each
+student (can be in groups) will present a paper. Students will read and review
+papers before class.  You will be graded on reviews; class discussions; and
 project scope, effort, and results.
 
 ### Prerequisites
@@ -123,39 +125,38 @@ However, presenters should expect questions and interruptions throughout.
 In the presentation, you should:
 
 * Motivate the paper and provide background.
-* Present the high level idea, approach, and/or insight (using examples, whenever appropriate). 
+* Present the high-level idea, approach, and/or insight (using examples, whenever appropriate). 
 * Discuss technical details so that one can understand the key details without carefully reading it.
 * Explain the difference between this paper and related work.
 * Raise questions throughout the presentation to generate discussion.
 
 *The slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.* 
-You should use [this template](Slides/Template.pptx) for making your slides in powerpoint.
+You should use [this template](Slides/Template.potx) for making your slides in PowerPoint.
 
 ### Paper Summaries
-Review must be uploaded to **[https://hotcrp.eecs589.org](https://hotcrp.eecs589.org)**
+Every student is required to review the two papers assigned for each class.
+One of these reviews can be brief, summarizing the main contributions of the paper and one critical assessment (e.g., how the paper could be improved, or compares to related work, or advances the state of the art).
+This brief review should be about a paragraph in length. 
 
-Each group will also be assigned to write one or more paper summaries. 
-The paper summary assigned to a group may not be the same paper they have presented.
-
-A paper summary must address the following four questions in sufficient details (2-3 pages):
+The second review should be up to one page long, explaining in detail the contributions and context of the paper.  This review
+should address the following four questions in about a paragraph each.
 
 * What is the problem addressed by the paper, and why is this problem important?
 * What is the hypothesis of the work?
 * What is the proposed solution, and what key insight guides their solution?
 * What is one (or more) drawback or limitation of the proposal, and how will you improve it?
 
+Reviews must be uploaded to **[https://hotcrp.eecs589.org](https://hotcrp.eecs589.org)**
+
 *The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
 **Late reviews will not be counted.** 
 You should use [this template](Summaries/Template.md) for writing your summary.
 Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.
 
-Because you do not have to write summaries/reviews for each paper, you cannot avoid reading a paper. 
-Everyone is expected to have read all the papers. 
-Being able to critically judge others' work is crucial for your understanding. 
-
+You must read and review every assigned paper.
 
 ### Participation
-You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
+You are expected to attend all lectures (you may skip up to 2 lectures for legitimate reasons), and more importantly, participate in class discussions.
 
 ### Project
 You will complete substantive work an instructor-approved problem and have original contribution. 
@@ -170,4 +171,4 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 
 #### Acknowledgement
-This course syllabus is heavily influenced by Mosharaf's [EECS 598](https://github.com/mosharaf/eecs598/blob/f17-bigdata/README.md).
+This course syllabus is heavily influenced by Mosharaf Chowdhury's [EECS 598](https://github.com/mosharaf/eecs598/blob/f17-bigdata/README.md).
