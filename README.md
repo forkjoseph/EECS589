@@ -62,10 +62,10 @@ understand trends in networking research.
 
 | Date  | Readings                       | Presenter|
 | ------| -------------------------------| ---------| 
-| Jan 9 | Introduction                   | [Honeyman]| 
-|       | **Background**                 | [Honeyman]| 
-| Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | [Honeyman]| 
-|       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | [Honeyman]|
+| Jan 9 | Introduction                   | Prof. Honeyman | 
+|       | **Background**                 | Prof. Honeyman | 
+| Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | Prof. Honeyman |
+|       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | Prof. Honeyman | 
 | Jan 16| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
 |				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | | 
 | Jan 21| No class (MLK Day)! | | 
@@ -98,7 +98,7 @@ understand trends in networking research.
 | Apr 22| | |
 
 
-## FIXME: Grading
+## Grading
 Students who satisfactorily complete all assigned work will receive a B+ or better.
 
 ## Policies
@@ -106,14 +106,15 @@ Students who satisfactorily complete all assigned work will receive a B+ or bett
 ### Honor Code
 [The Engineering Honor Code](http://honorcode.engin.umich.edu/) applies to all activities related to this course.
 
-### FIXME: Groups
+### Groups
 All activities of this course will be performed in **groups of 3 students**, two Master's students teamed up with one Doctoral student.
-Exceptions may be made for the Research track. 
+Exceptions may be made for valid reasons (e.g., working on existing projects)
+once the instructor team approved.
 
-[Declare your group's membership and paper preferences](https://goo.gl/qzMjq4) by January 16, 2019.
+[Declare your group's membership and paper preferences](https://goo.gl/forms/VuAkrqQqkSKgZEUn2) by January 16, 2019.
 After this date, we will form groups from the remaining students.
 
-### FIXME: Paper Presentation
+### Paper Presentation
 The course will be conducted as a seminar. 
 Only one group will present in each class.
 Each group will be assigned to present a pair of papers at least twice throughout the semester. 
@@ -130,7 +131,7 @@ In the presentation, you should:
 *The slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.* 
 You should use [this template](Slides/Template.pptx) for making your slides in powerpoint.
 
-### FIXME: Paper Summaries
+### Paper Summaries
 Review must be uploaded to **[https://hotcrp.eecs589.org](https://hotcrp.eecs589.org)**
 
 Each group will also be assigned to write one or more paper summaries. 
@@ -153,7 +154,7 @@ Everyone is expected to have read all the papers.
 Being able to critically judge others' work is crucial for your understanding. 
 
 
-### FIXME: Participation
+### Participation
 You are expected to attend all lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
 
 ### Project
