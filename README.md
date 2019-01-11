@@ -64,40 +64,40 @@ understand trends in networking research.
 
 | Date  | Readings                       | Presenter|
 | ------| -------------------------------| ---------| 
-| Jan 9 | Introduction                   | Prof. Honeyman | 
+| Jan 10 | Introduction                   | Prof. Honeyman | 
 |       | **Background**                 | Prof. Honeyman | 
-| Jan 14| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | Prof. Honeyman |
+| Jan 15| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | Prof. Honeyman |
 |       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | Prof. Honeyman | 
-| Jan 16| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
+| Jan 17| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
 |				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | | 
-| Jan 21| No class (MLK Day)! | | 
-| Jan 23| [Understanding PCIe Performance for End Host Networking](https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf) | | 
+| Jan 22| [Understanding PCIe Performance for End Host Networking](https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf)| | 
 |				| [Revisiting Network Support for RDMA](https://people.eecs.berkeley.edu/~radhika/irn.pdf) | | 
-| Jan 28| [Inferring Persistent Interdomain Congestion](http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf) | | 
-| Jan 30| | |
-| Feb 04| | |
-| Feb 06| | |
-| Feb 11| | |
-| Feb 13| | |
-| Feb 18| | |
-| Feb 20| | |
-| Feb 25| | |
-| Feb 27| | |
-| Mar 04| Spring break | |
-| Mar 06| Spring break | |
-| Mar 11| | |
-| Mar 13| | |
-| Mar 18| | |
-| Mar 20| | |
-| Mar 25| | |
-| Mar 27| | |
-| Apr 01| | |
-| Apr 03| | |
-| Apr 08| | |
-| Apr 10| | |
-| Apr 15| | |
-| Apr 17| | |
-| Apr 22| | |
+| Jan 24| [Inferring Persistent Interdomain Congestion](http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf) | | 
+| Jan 29|  | | 
+| Jan 31| | |
+| Feb 05| | |
+| Feb 07| | |
+| Feb 12| | |
+| Feb 14| | |
+| Feb 19| | |
+| Feb 21| | |
+| Feb 26| | |
+| Feb 28| | |
+| Mar 05| Spring break | |
+| Mar 07| Spring break | |
+| Mar 12| | |
+| Mar 14| | |
+| Mar 19| | |
+| Mar 21| | |
+| Mar 26| | |
+| Mar 28| | |
+| Apr 02| | |
+| Apr 04| | |
+| Apr 09| | |
+| Apr 11| | |
+| Apr 16| | |
+| Apr 18| | |
+| Apr 23| | |
 
 
 ## Grading
