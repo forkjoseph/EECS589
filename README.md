@@ -147,6 +147,7 @@ should address the following four questions in about a paragraph each.
 * What is one (or more) drawback or limitation of the proposal, and how will you improve it?
 
 Reviews must be uploaded to **[https://hotcrp.eecs589.org](https://hotcrp.eecs589.org)**
+The list of papers can be found at [here](https://eecs589.eecs.umich.edu/search?q=) (note that you must sign up with umich.edu email). 
 
 *The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
 **Late reviews will not be counted.** 
