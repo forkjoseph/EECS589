@@ -149,7 +149,6 @@ should address the following four questions in about a paragraph each.
 Reviews must be uploaded to **[https://hotcrp.eecs589.org](https://hotcrp.eecs589.org)**.
 The list of papers can be found at [here](https://eecs589.eecs.umich.edu/search?q=) (note that you must sign up with umich.edu email). 
 
-*The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
 **Late reviews will not be counted.** 
 You should use [this template](Summaries/Template.md) for writing your summary.
 Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.
