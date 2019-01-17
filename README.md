@@ -124,8 +124,8 @@ Each student will be assigned to present a pair of papers at least twice
 throughout the semester. 
 Presentations should last **at most 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
-You should sign-up for the desired presentation date
-[here](https://goo.gl/forms/sk0VOeKYxtfscjVy2).
+[You should sign-up for the desired presentation date
+here](https://goo.gl/forms/sk0VOeKYxtfscjVy2).
 
 In the presentation, you should:
 
