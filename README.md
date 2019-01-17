@@ -57,9 +57,10 @@ This course has no textbook. We will read recent papers from SIGCOMM 2018, Mobic
 understand trends in networking research.
 
 ## Tentative Schedule and Reading List
-* **Mandatory**: Unless otherwise specified.
-* **Optional**: Can skip, but should skim.
-* **Companion**: Mandatory for presenters and critics. Optional for the rest.
+Papers to be selected from but not limited to:
+* [SIGCOMM'18](https://conferences.sigcomm.org/sigcomm/2018/program.html)
+* [MobiCom'18](https://sigmobile.org/mobicom/2018/program.php)
+* [NSDI'19](https://www.usenix.org/conference/nsdi19/technical-sessions)
 
 
 | Date  | Readings                       | Presenter|
