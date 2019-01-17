@@ -69,8 +69,8 @@ Papers to be selected from but not limited to:
 |       | **Background**                 | Prof. Honeyman | 
 | Jan 15| [Internet Anycast: Performance, Problems and Potential](http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf) | Prof. Honeyman |
 |       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | Prof. Honeyman | 
-| Jan 17| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | |
-|				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | | 
+| Jan 17| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | Prof. Honeyman | 
+|				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | Prof. Honeyman | 
 | Jan 22| [Understanding PCIe Performance for End Host Networking](https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf)| | 
 |				| [Revisiting Network Support for RDMA](https://people.eecs.berkeley.edu/~radhika/irn.pdf) | | 
 | Jan 24| [Inferring Persistent Interdomain Congestion](http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf) | | 
@@ -119,10 +119,14 @@ After this date, we will form groups from the remaining students.
 
 ### Paper Presentation
 The course will be conducted as a seminar. 
-Only one group will present in each class.
-Each group will be assigned to present a pair of papers at least twice throughout the semester. 
+Two students will present in each class.
+Each student will be assigned to present a pair of papers at least twice
+throughout the semester. 
 Presentations should last **at most 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
+You should sign-up for the desired presentation date
+[here](https://goo.gl/forms/sk0VOeKYxtfscjVy2).
+
 In the presentation, you should:
 
 * Motivate the paper and provide background.
