@@ -54,7 +54,8 @@ databases, distributed systems, and networking).
 
 ### Textbook
 This course has no textbook. We will read recent papers from SIGCOMM 2018, Mobicom 2018, and NSDI 2019 to
-understand trends in networking research.
+understand trends in networking research.  If you can't find any interesting papers there, try older (but
+still recent) SIGCOMM conferences, or perhaps IMC.
 
 ## Tentative Schedule and Reading List
 Papers to be selected from but not limited to:
