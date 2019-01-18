@@ -74,7 +74,9 @@ Papers to be selected from but not limited to:
 |				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | Prof. Honeyman | 
 | Jan 22| [Understanding PCIe Performance for End Host Networking](https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf)| | 
 |				| [Revisiting Network Support for RDMA](https://people.eecs.berkeley.edu/~radhika/irn.pdf) | | 
-| Jan 24| [Inferring Persistent Interdomain Congestion](http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf) | | 
+| Jan 24| [How to Catch when Proxies Lie Verifying the Physical Locations of
+Network Proxies with Active Geolocation] (https://research.owlfolio.org/pubs/2018-catch-proxies-lie.pdf) | Reethika Ramesh | 
+| | [Incentivizing Censorship Measurements via Circumvention](https://censorbib.nymity.ch/pdf/Nisar2018a.pdf) | Ramakrishnan Sundara Raman | 
 | Jan 29|  | | 
 | Jan 31| | |
 | Feb 05| | |
