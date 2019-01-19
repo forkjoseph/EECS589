@@ -78,9 +78,11 @@ Papers to be selected from but not limited to:
 | | **Measurement** ||
 | Jan 24 | [How to Catch when Proxies Lie Verifying the Physical Locations of Network Proxies with Active Geolocation](https://research.owlfolio.org/pubs/2018-catch-proxies-lie.pdf) | Reethika Ramesh | 
 | | [Incentivizing Censorship Measurements via Circumvention](https://censorbib.nymity.ch/pdf/Nisar2018a.pdf) | Ramakrishnan Sundara Raman | 
-| Jan 29|  | | 
+| Jan 29 | [RF-Based 3D Skeletons](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf)| Benjamin Cyr | 
+| | | |
 | Jan 31| | |
-| Feb 05| | |
+| Feb 05| [Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol](https://cs.stanford.edu/~keithw/salsify-paper.pdf) | Ben Reeves |
+| | | |
 | Feb 07| | |
 | Feb 12| | |
 | Feb 14| | |
@@ -95,7 +97,8 @@ Papers to be selected from but not limited to:
 | Mar 19| | |
 | Mar 21| | |
 | Mar 26| | |
-| Mar 28| | |
+| Mar 28| [Slim: OS Kernel Support for a Low-Overhead Container Overlay Network](https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf) | Ben Reeves |
+| | | |
 | Apr 02| | |
 | Apr 04| | |
 | Apr 09| | |
