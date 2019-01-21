@@ -76,13 +76,13 @@ Papers to be selected from but not limited to:
 | Jan 22| [Understanding PCIe Performance for End Host Networking](https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf)| Prof. Honeyman |  
 |				| [Revisiting Network Support for RDMA](https://people.eecs.berkeley.edu/~radhika/irn.pdf) | Prof. Honeyman | 
 | | **Measurement** ||
-| Jan 24 | [How to Catch when Proxies Lie Verifying the Physical Locations of Network Proxies with Active Geolocation](https://research.owlfolio.org/pubs/2018-catch-proxies-lie.pdf) | Reethika Ramesh | 
-| | [Incentivizing Censorship Measurements via Circumvention](https://censorbib.nymity.ch/pdf/Nisar2018a.pdf) | Ramakrishnan Sundara Raman | 
-| Jan 29 | [RF-Based 3D Skeletons](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf)| Benjamin Cyr | 
-| | | |
+| Jan 24| [How to Catch when Proxies Lie Verifying the Physical Locations of Network Proxies with Active Geolocation](https://research.owlfolio.org/pubs/2018-catch-proxies-lie.pdf) | Reethika Ramesh | 
+|       | [Incentivizing Censorship Measurements via Circumvention](https://censorbib.nymity.ch/pdf/Nisar2018a.pdf) | Ramakrishnan Sundara Raman | 
+| Jan 29| [RF-Based 3D Skeletons](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf)| Benjamin Cyr | 
+|       | | |
 | Jan 31| | |
 | Feb 05| [Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol](https://cs.stanford.edu/~keithw/salsify-paper.pdf) | Ben Reeves |
-| | | |
+|       | [PASTE: A Network Programming Interface for Non-Volatile Main Memory (NSDI 2018)](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf)| Thomas Oliver |
 | Feb 07| | |
 | Feb 12| | |
 | Feb 14| | |
@@ -98,7 +98,7 @@ Papers to be selected from but not limited to:
 | Mar 21| | |
 | Mar 26| | |
 | Mar 28| [Slim: OS Kernel Support for a Low-Overhead Container Overlay Network](https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf) | Ben Reeves |
-| | | |
+|       | [Datacenter RPCs can be General and Fast](http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf) | Thomas Oliver | 
 | Apr 02| | |
 | Apr 04| | |
 | Apr 09| | |
