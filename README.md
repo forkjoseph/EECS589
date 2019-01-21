@@ -72,24 +72,25 @@ Papers to be selected from but not limited to:
 |       | [Restructuring Endpoint Congestion Control](https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf) | Prof. Honeyman | 
 | Jan 17| [Networking across Boundaries: Enabling Communication through the Water-Air Interface](http://www.mit.edu/~fadel/papers/TARF-paper.pdf) | Prof. Honeyman | 
 |				| [Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication](https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf) | Prof. Honeyman | 
-| | **Networking for New Hardware** ||
+|       | **Networking for New Hardware** ||
 | Jan 22| [Understanding PCIe Performance for End Host Networking](https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf)| Prof. Honeyman |  
 |				| [Revisiting Network Support for RDMA](https://people.eecs.berkeley.edu/~radhika/irn.pdf) | Prof. Honeyman | 
-| | **Measurement** ||
+|       | **Measurement** ||
 | Jan 24| [How to Catch when Proxies Lie Verifying the Physical Locations of Network Proxies with Active Geolocation](https://research.owlfolio.org/pubs/2018-catch-proxies-lie.pdf) | Reethika Ramesh | 
 |       | [Incentivizing Censorship Measurements via Circumvention](https://censorbib.nymity.ch/pdf/Nisar2018a.pdf) | Ramakrishnan Sundara Raman | 
 | Jan 29| [RF-Based 3D Skeletons](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf)| Benjamin Cyr | 
-|       | | |
+|       | [NetChain: Scale-Free Sub-RTT Coordination](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-jin.pdf)| Gefei  Zuo |
 | Jan 31| | |
 | Feb 05| [Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol](https://cs.stanford.edu/~keithw/salsify-paper.pdf) | Ben Reeves |
-|       | [PASTE: A Network Programming Interface for Non-Volatile Main Memory (NSDI 2018)](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf)| Thomas Oliver |
+|       | [PASTE: A Network Programming Interface for Non-Volatile Main Memory](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf)| Thomas Oliver |
 | Feb 07| | |
 | Feb 12| | |
 | Feb 14| | |
 | Feb 19| | |
 | Feb 21| | |
 | Feb 26| | |
-| Feb 28| | |
+| Feb 28| [Trident: Toward a Unified SDN Programming Framework with Automatic Updates](https://dl.acm.org/citation.cfm?doid=3230543.3230562)| Junpeng Guo |
+|       | | |
 | Mar 05| Spring break | |
 | Mar 07| Spring break | |
 | Mar 12| | |
