@@ -85,8 +85,10 @@ Papers to be selected from but not limited to:
 |       | [PASTE: A Network Programming Interface for Non-Volatile Main Memory](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf)| Thomas Oliver |
 | Feb 07| [AuTO: Scaling Deep Reinforcement Learning to Enable Datacenter-Scale Automatic Traffic Optimization](https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf)| Richard Higgins |
 |       | [How Tracking Companies Circumvented Ad Blockers Using WebSockets](https://seclab.ccs.neu.edu/static/publications/bashir-imc18.pdf) | Eric Newberry|
-| Feb 12| | |
-| Feb 14| | |
+| Feb 12| [Towards Battery-Free HD Video Streaming](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)| Hsun-Wei	Cho |
+|				| | |
+| Feb 14| [Oboe: Auto-tuning Video ABR Algorithms to Network Conditions](https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf)| Jiachen	Sun|
+|				| | |
 | Feb 19| | |
 | Feb 21| | |
 | Feb 26| | |
