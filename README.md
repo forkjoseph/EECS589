@@ -80,24 +80,34 @@ Papers to be selected from but not limited to:
 |       | [Incentivizing Censorship Measurements via Circumvention](https://censorbib.nymity.ch/pdf/Nisar2018a.pdf) | Ramakrishnan Sundara Raman | 
 | Jan 29| [RF-Based 3D Skeletons](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf)| Benjamin Cyr | 
 |       | [NetChain: Scale-Free Sub-RTT Coordination](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-jin.pdf)| Gefei  Zuo |
-| Jan 31| | |
+| Jan 31| [Oboe: Auto-tuning Video ABR Algorithms to Network Conditions](https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf)| Jiachen	Sun|
+|				| | |
 | Feb 05| [Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol](https://cs.stanford.edu/~keithw/salsify-paper.pdf) | Ben Reeves |
 |       | [PASTE: A Network Programming Interface for Non-Volatile Main Memory](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf)| Thomas Oliver |
-| Feb 07| | |
-| Feb 12| | |
+| Feb 07| [AuTO: Scaling Deep Reinforcement Learning to Enable Datacenter-Scale Automatic Traffic Optimization](https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf)| Richard Higgins |
+|       | [How Tracking Companies Circumvented Ad Blockers Using WebSockets](https://seclab.ccs.neu.edu/static/publications/bashir-imc18.pdf) | Eric Newberry|
+| Feb 12| [Towards Battery-Free HD Video Streaming](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)| Hsun-Wei	Cho |
+|				| [A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High-speed Rails](https://www4.comp.polyu.edu.hk/~csdwang/Publication/SIGCOMM18-final.pdf)| Xumiao	Zhang|
 | Feb 14| | |
+|				| | |
 | Feb 19| | |
-| Feb 21| | |
+| Feb 21| [Direct Universal Access: Making Data Center Resources Available to FPGA](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/nsdi19spring-final64.pdf)| Jiacheng	Ma|
+|				| | |
 | Feb 26| | |
 | Feb 28| [Trident: Toward a Unified SDN Programming Framework with Automatic Updates](https://dl.acm.org/citation.cfm?doid=3230543.3230562)| Junpeng Guo |
 |       | | |
 | Mar 05| Spring break | |
 | Mar 07| Spring break | |
-| Mar 12| | |
-| Mar 14| | |
-| Mar 19| | |
-| Mar 21| | |
-| Mar 26| | |
+| Mar 12| [Inaudible Voice Commands: The Long-Range Attack and Defense](https://synrg.csl.illinois.edu/papers/lipread_nsdi18.pdf)| Hsun-Wei	Cho|
+|				| | |
+| Mar 14| [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
+|				| | |
+| Mar 19| [MUTE: Bringing IoT to Noise Cancellation](https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf)| Xumiao	Zhang|
+|				| | |
+| Mar 21| [RAVEN: Improving Interactive Latency for the Connected Car](http://leelabs.org/pubs/mobicom18_raven.pdf)| Eric	Newberry |
+|				| | |
+| Mar 26| [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) | Jiachen Sun|
+|				| | |
 | Mar 28| [Slim: OS Kernel Support for a Low-Overhead Container Overlay Network](https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf) | Ben Reeves |
 |       | [Datacenter RPCs can be General and Fast](http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf) | Thomas Oliver | 
 | Apr 02| | |
