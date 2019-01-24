@@ -86,7 +86,7 @@ Papers to be selected from but not limited to:
 | Feb 07| [AuTO: Scaling Deep Reinforcement Learning to Enable Datacenter-Scale Automatic Traffic Optimization](https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf)| Richard Higgins |
 |       | [How Tracking Companies Circumvented Ad Blockers Using WebSockets](https://seclab.ccs.neu.edu/static/publications/bashir-imc18.pdf) | Eric Newberry|
 | Feb 12| [Towards Battery-Free HD Video Streaming](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)| Hsun-Wei	Cho |
-|				| | |
+|				| [A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High-speed Rails](https://www4.comp.polyu.edu.hk/~csdwang/Publication/SIGCOMM18-final.pdf)| Xumiao	Zhang|
 | Feb 14| [Oboe: Auto-tuning Video ABR Algorithms to Network Conditions](https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf)| Jiachen	Sun|
 |				| | |
 | Feb 19| | |
