@@ -143,9 +143,6 @@ In the presentation, you should:
 * Explain the difference between this paper and related work.
 * Raise questions throughout the presentation to generate discussion.
 
-*The slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.* 
-You should use [this template](Slides/Template.potx) for making your slides in PowerPoint.
-
 ### Paper Summaries
 Every student is required to review the two papers assigned for each class.
 One of these reviews can be brief, summarizing the main contributions of the paper and one critical assessment (e.g., how the paper could be improved, or compares to related work, or advances the state of the art).
