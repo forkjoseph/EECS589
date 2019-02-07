@@ -87,6 +87,7 @@ Papers to be selected from but not limited to:
 |       | **Make Problem Complicated Again!** ||
 | Feb 05| [Oboe: Auto-tuning Video ABR Algorithms to Network Conditions](https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf)| Jiachen	Sun|
 |				| [Sincronia: near-optimal network design for coflows](http://www.cs.cornell.edu/~ragarwal/pubs/sincronia.pdf)|  Gefei  Zuo |
+|       | **Combining Two old ideas into one new idea** || 
 | Feb 07| [Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol](https://cs.stanford.edu/~keithw/salsify-paper.pdf) | Ben Reeves |
 |       | [PASTE: A Network Programming Interface for Non-Volatile Main Memory](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf)| Thomas Oliver |
 | Feb 12| [AuTO: Scaling Deep Reinforcement Learning to Enable Datacenter-Scale Automatic Traffic Optimization](https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf)| Richard Higgins |
