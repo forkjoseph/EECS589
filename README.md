@@ -53,9 +53,12 @@ least one undergraduate-level systems-related course (from operating systems,
 databases, distributed systems, and networking).
 
 ### Textbook
-This course has no textbook. We will read recent papers from SIGCOMM 2018, Mobicom 2018, and NSDI 2019 to
-understand trends in networking research.  If you can't find any interesting papers there, try older (but
-still recent) SIGCOMM conferences, or perhaps IMC.
+This course has no textbook. The class will select and discuss recent papers from the networking literature
+in order to understand trends in networking research. 
+Students will select papers, 
+focusing primarily on SIGCOMM 2018 but also including Mobicom 2018, and NSDI 2019, and lead discussions.
+If you can't find any interesting papers there, try older (but
+still recent) SIGCOMM conferences, IMC, or [SIGCOMM Test-of-Time papers](https://www.sigcomm.org/awards/test-of-time-paper-award).
 
 ## Tentative Schedule and Reading List
 Papers to be selected from but not limited to:
