@@ -65,6 +65,7 @@ Papers to be selected from but not limited to:
 * [SIGCOMM'18](https://conferences.sigcomm.org/sigcomm/2018/program.html)
 * [MobiCom'18](https://sigmobile.org/mobicom/2018/program.php)
 * [NSDI'19](https://www.usenix.org/conference/nsdi19/technical-sessions)
+* [MobiCom'19 (round 1)](https://www.sigmobile.org/mobicom/2019/accepted.php)
 
 
 | Date  | Readings                       | Presenter|
