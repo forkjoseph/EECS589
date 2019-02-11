@@ -97,8 +97,8 @@ Papers to be selected from but not limited to:
 | Feb 14| [Towards Battery-Free HD Video Streaming](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)| Hsun-Wei	Cho |
 |				| [A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High-speed Rails](https://www4.comp.polyu.edu.hk/~csdwang/Publication/SIGCOMM18-final.pdf)| Xumiao	Zhang|
 | Feb 19| [FBOSS: Building Switch Software at Scale](https://research.fb.com/wp-content/uploads/2018/07/FBOSS-Building-Switch-Software-at-Scale.pdf?)|Kevin	Matthews|
-|				| | |
-| Feb 21| [Direct Universal Access: Making Data Center Resources Available to FPGA](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/nsdi19spring-final64.pdf)| Jiacheng	Ma|
+|       | [Direct Universal Access: Making Data Center Resources Available to FPGA](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/nsdi19spring-final64.pdf)| Jiacheng	Ma|
+| Feb 21| | |
 |				| | |
 | Feb 26| [FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds](https://daehyeok.kim/assets/papers/FreeFlow-nsdi19_prepub.pdf)| Jiacheng	Ma|
 |				| | |
