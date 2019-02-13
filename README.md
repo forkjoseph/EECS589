@@ -107,7 +107,7 @@ Papers to be selected from but not limited to:
 | Mar 05| Spring break | |
 | Mar 07| Spring break | |
 | Mar 12| [Inaudible Voice Commands: The Long-Range Attack and Defense](https://synrg.csl.illinois.edu/papers/lipread_nsdi18.pdf)| Hsun-Wei	Cho|
-|				| | |
+|				| [ECHO: A reliable distributed cellular core network for hyper-scale public clouds](https://www.flux.utah.edu/download?uid=276)| Jiayi	Liu|
 | Mar 14| [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
 |				| [Leveraging Interconnections for Performance: The Serving Infrastructure of a Large CDN](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf)| Kevin	Matthews|
 | Mar 19| [MUTE: Bringing IoT to Noise Cancellation](https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf)| Xumiao	Zhang|
