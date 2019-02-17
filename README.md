@@ -101,7 +101,7 @@ Papers to be selected from but not limited to:
 | Feb 21| [Improving TCP Congestion Control with Machine Intelligence](https://dl.acm.org/citation.cfm?id=3229543.3229550)| Richard	Higgins|
 |				| | |
 | Feb 26| [FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds](https://daehyeok.kim/assets/papers/FreeFlow-nsdi19_prepub.pdf)| Jiacheng	Ma|
-|				| | |
+|				| [403 Forbidden: A Global View of CDN Geoblocking](https://amcdon.com/papers/403forbidden-imc18.pdf)| Steven Sprecher |
 | Feb 28| [Trident: Toward a Unified SDN Programming Framework with Automatic Updates](https://dl.acm.org/citation.cfm?doid=3230543.3230562)| Junpeng Guo |
 |       | [Stateless Datacenter Load-balancing with Beamer](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-olteanu.pdf)| Kai	Fang|
 | Mar 05| Spring break | |
