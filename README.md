@@ -99,7 +99,7 @@ Papers to be selected from but not limited to:
 | Feb 19| [FBOSS: Building Switch Software at Scale](https://research.fb.com/wp-content/uploads/2018/07/FBOSS-Building-Switch-Software-at-Scale.pdf?)|Kevin	Matthews|
 |       | [Direct Universal Access: Making Data Center Resources Available to FPGA](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/nsdi19spring-final64.pdf)| Jiacheng	Ma|
 | Feb 21| [Improving TCP Congestion Control with Machine Intelligence](https://dl.acm.org/citation.cfm?id=3229543.3229550)| Richard	Higgins|
-|				| | |
+|				| [Copa: Practical Delay-Based Congestion Control for the Internet](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-arun.pdf)| Can Carlak |
 | Feb 26| [FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds](https://daehyeok.kim/assets/papers/FreeFlow-nsdi19_prepub.pdf)| Jiacheng	Ma|
 |				| [403 Forbidden: A Global View of CDN Geoblocking](https://amcdon.com/papers/403forbidden-imc18.pdf)| Steven Sprecher |
 | Feb 28| [Trident: Toward a Unified SDN Programming Framework with Automatic Updates](https://dl.acm.org/citation.cfm?doid=3230543.3230562)| Junpeng Guo |
