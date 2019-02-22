@@ -112,14 +112,15 @@ Papers to be selected from but not limited to:
 |				| [Leveraging Interconnections for Performance: The Serving Infrastructure of a Large CDN](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf)| Kevin	Matthews|
 | Mar 19| [MUTE: Bringing IoT to Noise Cancellation](https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf)| Xumiao	Zhang|
 |				| | |
-| Mar 21| [RAVEN: Improving Interactive Latency for the Connected Car](http://leelabs.org/pubs/mobicom18_raven.pdf)| Eric	Newberry |
+| Mar 21| **[RAVEN: Improving Interactive Latency for the Connected Car](http://leelabs.org/pubs/mobicom18_raven.pdf)** | Eric	Newberry |
 |				| | |
 | Mar 26| [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) | Jiachen Sun|
 |				| | |
 | Mar 28| [Slim: OS Kernel Support for a Low-Overhead Container Overlay Network](https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf) | Ben Reeves |
 |       | [Datacenter RPCs can be General and Fast](http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf) | Thomas Oliver | 
 | Apr 02| | |
-| Apr 04| | |
+| Apr 04| [Advancing the Art of Internet Edge Outage Detection]()| Reethika Ramesh|
+|				| | |
 | Apr 09| | |
 | Apr 11| | |
 | Apr 16| | |
