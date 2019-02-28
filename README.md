@@ -109,13 +109,13 @@ Papers to be selected from but not limited to:
 | Mar 12| [Inaudible Voice Commands: The Long-Range Attack and Defense](https://synrg.csl.illinois.edu/papers/lipread_nsdi18.pdf)| Hsun-Wei	Cho|
 |				| [ECHO: A reliable distributed cellular core network for hyper-scale public clouds](https://www.flux.utah.edu/download?uid=276)| Jiayi	Liu|
 | Mar 14| **project progress presentation**| 6 groups!| 
-| 			| [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
-|	Mar 19| [Leveraging Interconnections for Performance: The Serving Infrastructure of a Large CDN](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf)| Kevin	Matthews|
-| 			| [MUTE: Bringing IoT to Noise Cancellation](https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf)| Xumiao	Zhang|
+|				| [Sonata: Query-Driven Streaming Network Telemetry](https://dl.acm.org/citation.cfm?id=3230555) | Kai Fang |
+| Mar 19| [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
+|				| [Leveraging Interconnections for Performance: The Serving Infrastructure of a Large CDN](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf)| Kevin	Matthews|
 | Mar 21| **[RAVEN: Improving Interactive Latency for the Connected Car](http://leelabs.org/pubs/mobicom18_raven.pdf)** | Eric	Newberry |
 |				| [On low-latency-capable topologies, and their impact on the design of intra-domain routing](https://dl.acm.org/citation.cfm?doid=3230543.3230575)| Zhensheng	Jiang |
-| Mar 26| [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) | Jiachen Sun|
-|				| | |
+| Mar 26| [MUTE: Bringing IoT to Noise Cancellation](https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf)| Xumiao	Zhang|
+| 			| [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) | Jiachen Sun|
 | Mar 28| [Slim: OS Kernel Support for a Low-Overhead Container Overlay Network](https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf) | Ben Reeves |
 |       | [Datacenter RPCs can be General and Fast](http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf) | Thomas Oliver | 
 | Apr 02| | |
