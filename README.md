@@ -108,12 +108,12 @@ Papers to be selected from but not limited to:
 | Mar 07| Spring break | |
 | Mar 12| [Inaudible Voice Commands: The Long-Range Attack and Defense](https://synrg.csl.illinois.edu/papers/lipread_nsdi18.pdf)| Hsun-Wei	Cho|
 |				| [ECHO: A reliable distributed cellular core network for hyper-scale public clouds](https://www.flux.utah.edu/download?uid=276)| Jiayi	Liu|
-| Mar 14| [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
-|				| [Leveraging Interconnections for Performance: The Serving Infrastructure of a Large CDN](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf)| Kevin	Matthews|
-| Mar 19| [MUTE: Bringing IoT to Noise Cancellation](https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf)| Xumiao	Zhang|
-|				| | |
+| Mar 14| **project progress presentation**| 6 groups!| 
+| 			| [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
+|	Mar 19| [Leveraging Interconnections for Performance: The Serving Infrastructure of a Large CDN](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf)| Kevin	Matthews|
+| 			| [MUTE: Bringing IoT to Noise Cancellation](https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf)| Xumiao	Zhang|
 | Mar 21| **[RAVEN: Improving Interactive Latency for the Connected Car](http://leelabs.org/pubs/mobicom18_raven.pdf)** | Eric	Newberry |
-|				| | |
+|				| [On low-latency-capable topologies, and their impact on the design of intra-domain routing](https://dl.acm.org/citation.cfm?doid=3230543.3230575)| Zhensheng	Jiang |
 | Mar 26| [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) | Jiachen Sun|
 |				| | |
 | Mar 28| [Slim: OS Kernel Support for a Low-Overhead Container Overlay Network](https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf) | Ben Reeves |
@@ -194,7 +194,8 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 * Turn in a 2-page draft proposal (including references) by January 30. Remember to include the names and Michigan email addresses of the group members. 
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before February 11.
-* Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of March 13.
+* Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of March 14.
+* **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on March 14**.
 * Each group must present their final results during a presentation or poster session on April 11.
 * **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on April 15.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
