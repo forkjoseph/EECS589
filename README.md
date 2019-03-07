@@ -118,7 +118,8 @@ Papers to be selected from but not limited to:
 | 			| [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) | Jiachen Sun|
 | Mar 28| [Slim: OS Kernel Support for a Low-Overhead Container Overlay Network](https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf) | Ben Reeves |
 |       | [Datacenter RPCs can be General and Fast](http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf) | Thomas Oliver | 
-| Apr 02| | |
+| Apr 02| [Resolving Policy Conflicts in Multi-Carrier Cellular Access](http://web.cs.ucla.edu/~zyuan/papers/mobicom18-yuan-multicarrier-authorversion.pdf)| Joseph Lee|
+|				| | |
 | Apr 04| [Advancing the Art of Internet Edge Outage Detection]()| Reethika Ramesh|
 |				| | |
 | Apr 09| | |
