@@ -109,6 +109,11 @@ Papers to be selected from but not limited to:
 | Mar 12| [Inaudible Voice Commands: The Long-Range Attack and Defense](https://synrg.csl.illinois.edu/papers/lipread_nsdi18.pdf)| Hsun-Wei	Cho|
 |				| [ECHO: A reliable distributed cellular core network for hyper-scale public clouds](https://www.flux.utah.edu/download?uid=276)| Jiayi	Liu|
 | Mar 14| **project progress presentation**| 6 groups!| 
+|       | [Augmenting Physical Safety by Modifying Vehicular Networking Communication Methods](Slides/mid-1-Eric-Hsunwei-Richard.pdf) | Eric Newberry, Hsun-Wei Cho, and Richard Higgins | 
+|       | [CCI-Bench: Measuring Cache Coherent Interconnection](Slides/mid-2-Jiacheng-Gefei.pdf) | Jiacheng Ma and Gefei Zuo | 
+|       | [Live Container Migration without Dropping TCP Connections](Slides/mid-3-Thomas-Benjamin-Jiayi.pdf) | Thomas Oliver, Ben Reeves, and Jiayi Liu | 
+|       | [](Slides/) | | 
+|       | [](Slides/) | | 
 | Mar 19| [Sonata: Query-Driven Streaming Network Telemetry](https://dl.acm.org/citation.cfm?id=3230555) | Kai Fang |
 |       | [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
 | Mar 21| **[RAVEN: Improving Interactive Latency for the Connected Car](http://leelabs.org/pubs/mobicom18_raven.pdf)** | Eric	Newberry |
