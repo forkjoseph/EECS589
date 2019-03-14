@@ -112,8 +112,9 @@ Papers to be selected from but not limited to:
 |       | [Augmenting Physical Safety by Modifying Vehicular Networking Communication Methods](Slides/mid-1-Eric-Hsunwei-Richard.pdf) | Eric Newberry, Hsun-Wei Cho, and Richard Higgins | 
 |       | [CCI-Bench: Measuring Cache Coherent Interconnection](Slides/mid-2-Jiacheng-Gefei.pdf) | Jiacheng Ma and Gefei Zuo | 
 |       | [Live Container Migration without Dropping TCP Connections](Slides/mid-3-Thomas-Benjamin-Jiayi.pdf) | Thomas Oliver, Ben Reeves, and Jiayi Liu | 
-|       | [](Slides/) | | 
-|       | [](Slides/) | | 
+|       | [Censored Planet](Slides/mid-4-Ram-Reethika-Steve.pdf) | Ramakrishnan Raman, Reethika Ramesh, and Steve Sprecher| 
+|       | [Enabling Multi-device Collaboration Using Distributed Mobile Multipath](Slides/mid-5-Jiachen-Xumiao-Junpeng.pdf) | Xumiao Zhang, Jiachen Sun, and Junpeng Guo| 
+|       | [XXX](Slides/mid-6-Can-Zhensheng.pdf) | Can Carlak and Zhensheng Jing|
 | Mar 19| [Sonata: Query-Driven Streaming Network Telemetry](https://dl.acm.org/citation.cfm?id=3230555) | Kai Fang |
 |       | [Semi-Oblivious Traffic Engineering: The Road Not Taken](https://www.cs.cornell.edu/~jnfoster/papers/smore.pdf)| Junpeng Guo|
 | Mar 21| **[RAVEN: Improving Interactive Latency for the Connected Car](http://leelabs.org/pubs/mobicom18_raven.pdf)** | Eric	Newberry |
