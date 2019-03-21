@@ -128,7 +128,8 @@ Papers to be selected from but not limited to:
 | Apr 04| [Advancing the Art of Internet Edge Outage Detection](https://www.akamai.com/us/en/multimedia/documents/technical-publication/advancing-the-art-of-internet-edge-outage-detection.pdf)| Reethika Ramesh|
 |				| [Inferring Persistent Interdomain Congestion](http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf)| Ramakrishnan Sundara Raman | 
 | Apr 09| | |
-| Apr 11| | |
+| Apr 11| **Final Poster presentation day**| |
+|				| @  Tishman Hall 3:30-5pm| |
 | Apr 16| | |
 | Apr 18| | |
 | Apr 23| | |
