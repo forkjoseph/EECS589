@@ -132,7 +132,8 @@ Papers to be selected from but not limited to:
 |				| [Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities](https://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf)| Can Carlark|
 | Apr 11| **Final Poster presentation day**| |
 |				| @  Tishman Hall 3:30-5pm| |
-| Apr 16| | |
+| Apr 16| [Datacenter RPCs can be General and Fast](http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf)|Zhensheng	Jiang |
+|				| | Jiayi	Liu |
 | Apr 18| | |
 | Apr 23| | |
 
