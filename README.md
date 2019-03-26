@@ -131,7 +131,7 @@ Papers to be selected from but not limited to:
 | Apr 09| [Quack: Scalable Remote Measurement of Application-Layer Censorship](https://benvds.com/papers/quack-security18.pdf) | Steven Sprecher |
 |				| [Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities](https://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf)| Can Carlark|
 | Apr 11| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited!|
-| Apr 16| [Datacenter RPCs can be General and Fast](http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf)|Zhensheng	Jiang |
+| Apr 16| | Zhensheng	Jiang |
 |				| | Jiayi	Liu |
 | Apr 18| | |
 | Apr 23| | |
