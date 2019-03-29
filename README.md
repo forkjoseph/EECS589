@@ -131,7 +131,7 @@ Papers to be selected from but not limited to:
 | Apr 09| [Quack: Scalable Remote Measurement of Application-Layer Censorship](https://benvds.com/papers/quack-security18.pdf) | Steven Sprecher |
 |				| [Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities](https://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf)| Can Carlark|
 | Apr 11| [CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks](https://www.usenix.org/system/files/nsdi19-cao.pdf) | Zhensheng	Jiang |
-|				| | Jiayi	Liu |
+|				| [Correctness and Performance for Stateful Chained Network Functions](http://wisr.cs.wisc.edu/papers/chc.pdf) | Jiayi	Liu |
 | Apr 16| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited!|
 | Apr 18| | |
 | Apr 23| | |
