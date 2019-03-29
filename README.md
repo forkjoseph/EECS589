@@ -130,9 +130,9 @@ Papers to be selected from but not limited to:
 |				| [Inferring Persistent Interdomain Congestion](http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf)| Ramakrishnan Sundara Raman | 
 | Apr 09| [Quack: Scalable Remote Measurement of Application-Layer Censorship](https://benvds.com/papers/quack-security18.pdf) | Steven Sprecher |
 |				| [Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities](https://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf)| Can Carlark|
-| Apr 11| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited!|
-| Apr 16| [CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks](https://www.usenix.org/system/files/nsdi19-cao.pdf) | Zhensheng	Jiang |
+| Apr 11| [CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks](https://www.usenix.org/system/files/nsdi19-cao.pdf) | Zhensheng	Jiang |
 |				| | Jiayi	Liu |
+| Apr 16| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited!|
 | Apr 18| | |
 | Apr 23| | |
 
@@ -205,7 +205,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before February 11.
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of March 14.
 * **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on March 14**.
-* Each group must present their final results during a presentation or poster session on April 11.
+* Each group must present their final results during a presentation or poster session on April 16.
 * **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on April 15.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 
