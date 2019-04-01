@@ -206,7 +206,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of March 14.
 * **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on March 14**.
 * Each group must present their final results during a presentation or poster session on April 16.
-* **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on April 15.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
+* **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on April 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 
 #### Acknowledgement
