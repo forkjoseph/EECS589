@@ -133,7 +133,8 @@ Papers to be selected from but not limited to:
 | Apr 11| [CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks](https://www.usenix.org/system/files/nsdi19-cao.pdf) | Zhensheng	Jiang |
 |				| [Correctness and Performance for Stateful Chained Network Functions](http://wisr.cs.wisc.edu/papers/chc.pdf) | Jiayi	Liu |
 | Apr 16| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited!|
-| Apr 18| | |
+| Apr 18| IPv6 deep-dive study | Kevin Matthews|
+|       | MPTCP deep-dive study | Kai Fang |
 | Apr 23| | |
 
 
