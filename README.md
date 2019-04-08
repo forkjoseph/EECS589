@@ -135,7 +135,7 @@ Papers to be selected from but not limited to:
 | Apr 16| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited!|
 | Apr 18| IPv6 deep-dive study | Kevin Matthews|
 |       | MPTCP deep-dive study | Kai Fang |
-| Apr 23| | |
+| Apr 23| [BBR TCP](http://www.potaroo.net/ispcol/2017-05/bbr.pdf)| Prof. Honeyman|
 
 
 ## Grading
