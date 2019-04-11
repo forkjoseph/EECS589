@@ -208,7 +208,8 @@ You must meet the following milestones (unless otherwise specified in future ann
 * **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on March 14**.
 * Each group must present their final results during a presentation or poster session on April 16.
 * **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on April 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
-
+* Format should be 3x4 feet (approximately 0.75x1.0 meters) poster and must be
+  emailed to Joseph by 11:59pm EST April 15.
 
 #### Acknowledgement
 This course syllabus is heavily influenced by Mosharaf Chowdhury's [EECS 598](https://github.com/mosharaf/eecs598/blob/f17-bigdata/README.md).
