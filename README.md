@@ -133,6 +133,12 @@ Papers to be selected from but not limited to:
 | Apr 11| [CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks](https://www.usenix.org/system/files/nsdi19-cao.pdf) | Zhensheng	Jiang |
 |				| [Correctness and Performance for Stateful Chained Network Functions](http://wisr.cs.wisc.edu/papers/chc.pdf) | Jiayi	Liu |
 | Apr 16| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited!|
+|       | [ Augmenting Physical Safety by Modifying Vehicular Networking Communication Methods](Slides/poster-1-Eric-Hsunwei-Richard.pdf) | Eric Newberry, Hsun-Wei Cho, and Richard Higgins | 
+|       | [ CCI-Bench: Measuring Cache-Coherent Interconnection (Part of Project Optimus for FPGA Virtualization)](Slides/poster-2-Jiacheng-Gefei.pdf) | Jiacheng Ma and Gefei Zuo | 
+|       | [Follow-me Connections: Seamless TCP Connection Migration](Slides/poster-3-Thomas-Benjamin-Jiayi.pdf) | Thomas Oliver, Ben Reeves, and Jiayi Liu | 
+|       | [Censored Planet: A Global Censorship Observatory](Slides/poster-4-Ram-Reethika-Steve.pdf) | Ramakrishnan Raman, Reethika Ramesh, and Steve Sprecher| 
+|       | [Enabling Multi-device Collaborations Using Distributed Mobile Multi-path](Slides/poster-5-Jiachen-Xumiao-Junpeng.pdf) | Xumiao Zhang, Jiachen Sun, and Junpeng Guo| 
+|       | [Congestion Control by Leveraging LTE PHY-Layer Information](Slides/poster-6-Can-Zhensheng.pdf) | Can Carlak and Zhensheng Jing|
 | Apr 18| IPv6 deep-dive study | Kevin Matthews|
 |       | MPTCP deep-dive study | Kai Fang |
 | Apr 23| [BBR TCP](http://www.potaroo.net/ispcol/2017-05/bbr.pdf)| Prof. Honeyman|
