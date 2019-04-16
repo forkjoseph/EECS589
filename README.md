@@ -132,7 +132,7 @@ Papers to be selected from but not limited to:
 |				| [Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities](https://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf)| Can Carlark|
 | Apr 11| [CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks](https://www.usenix.org/system/files/nsdi19-cao.pdf) | Zhensheng	Jiang |
 |				| [Correctness and Performance for Stateful Chained Network Functions](http://wisr.cs.wisc.edu/papers/chc.pdf) | Jiayi	Liu |
-| Apr 16| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited! (pictures: [1](http://leelabs.org/images/eecs589/00-sky.JPG), [2](http://leelabs.org/images/eecs589/00-group.JPG), [3](http://leelabs.org/images/eecs589/00-team.JPG)|
+| Apr 16| **Final Poster presentation day** @  Tishman Hall 3:30-5pm | Everyone is invited! (pictures: [1](http://leelabs.org/images/eecs589/00-sky.JPG), [2](http://leelabs.org/images/eecs589/00-group.JPG), [3](http://leelabs.org/images/eecs589/00-team.JPG))|
 |       | [Augmenting Physical Safety by Modifying Vehicular Networking Communication Methods](Slides/poster-1-Eric-Hsunwei-Richard.pdf) | [Eric Newberry, Hsun-Wei Cho, and Richard Higgins](http://leelabs.org/images/eecs589/1-Eric-Hsunwei-Richard.JPG) | 
 |       | [CCI-Bench: Measuring Cache-Coherent Interconnection (Part of Project Optimus for FPGA Virtualization)](Slides/poster-2-Jiacheng-Gefei.pdf) | [Jiacheng Ma and Gefei Zuo](http://leelabs.org/images/eecs589/2-Jiacheng-Gefei.pdf.JPG) | 
 |       | [Follow-me Connections: Seamless TCP Connection Migration](Slides/poster-3-Thomas-Benjamin-Jiayi.pdf) | [Thomas Oliver, Ben Reeves, and Jiayi Liu](http://leelabs.org/images/eecs589/3-Thomas-Benjamin-Jiayi.JPG) | 
